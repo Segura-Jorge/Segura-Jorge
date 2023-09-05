@@ -1,5 +1,13 @@
 ### Hi there 👋
-
+My analytic mind is driven by the need to acquire a deep understanding of all aspects of various computer languages.
+- 🔭 I’m currently working on learning Git, Terminal, and Canva!
+- 🌱 I’m currently learning at CodeUP
+- 👯 I’m looking to collaborate on meaningful projects that can shape our future.
+- 🤔 I’m looking for help with my curious brain that like to ask random questions at times.
+- 💬 Ask me about food or walks!
+- 📫 How to reach me: LinkedIn
+- 😄 Pronouns: He/him
+- ⚡ Fun fact: I prefer stairs to elevators.
 <!--
 **Segura-Jorge/Segura-Jorge** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
