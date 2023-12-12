@@ -1,9 +1,9 @@
 ### Hi there 👋
-My analytic mind is driven by the need to acquire a deep understanding of all aspects of various computer languages.
-- 🔭 I’m currently working on learning Git, Terminal, and Canva!
-- 🌱 I’m currently learning at CodeUP
-- 👯 I’m looking to collaborate on meaningful projects that can shape our future.
-- 🤔 I’m looking for help with my curious brain that like to ask random questions at times.
+My analytic mind is driven by the need to acquire a deep understanding of all aspects of various computer languages
+- 🔭 I’m currently working on a predictive model that will help reduce waste of materials and cut costs
+- 🌱 I’m currently learning about Natural Language Processing
+- 👯 I’m looking to collaborate on meaningful projects that can help optimize the use of resource (reduce, reuse, and/or recycle)
+- 🤔 I’m looking for help with my curious brain that likes to ask random questions at times
 - 💬 Ask me about food or walks!
 - 📫 How to reach me: LinkedIn
 - 😄 Pronouns: He/him
