@@ -1,7 +1,7 @@
 ### Hi there 👋
 My analytic mind is driven by the need to acquire a deep understanding of all aspects of various computer languages
-- 🔭 I’m currently working on a predictive model that will help understand the housing market
-- 🌱 I’m currently learning about AWS
+- 🔭 I’m currently working on Mastering Dynamo for Generative Design in Revit
+- 🌱 I’m currently learning about Dynamo for Generative Design
 - 👯 I’m looking to collaborate on meaningful projects that can help optimize the use of resource (reduce, reuse, and/or recycle)
 - 🤔 I’m looking for help with my curious brain that likes to ask random questions at times
 - 💬 Ask me about food or walks!
